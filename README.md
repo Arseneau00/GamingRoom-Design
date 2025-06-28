@@ -2,6 +2,8 @@
 
 ## Contents
 CS 230 Project 3 design template (1) (1).docx
+
+
 Final submitted software design document with journal reflection below to explain what I learned and how I worked through the project.
 
 ---
